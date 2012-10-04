@@ -1,0 +1,54 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonsterMaze\ModelTests\ModelTests.cs">
+    <Files>
+      <File FileName="MonsterMaze\ModelTests\LoaderTests.cs" Line="16" Column="1" />
+      <File FileName="MonsterMaze\ModelTests\TileSetTests.cs" Line="19" Column="40" />
+      <File FileName="MonsterMaze\ModelTests\ModelTests.cs" Line="53" Column="5" />
+      <File FileName="MonsterMaze\GameModel\Tiles\TileLoader.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MonsterMaze" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="GameModel" expanded="True" />
+            <Node name="ModelTests" expanded="True">
+              <Node name="ModelTests.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="ViewTestHarness" expanded="True">
+            <Node name="Properties" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="ViewTestHarness" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="MonsterMaze" expanded="True">
+            <Node name="MonsterMaze" expanded="True">
+              <Node name="ModelTests" expanded="True">
+                <Node name="LoaderTests" expanded="True" />
+                <Node name="ModelTests" expanded="True">
+                  <Node name="CanInjectControllerWithLevel" selected="True" />
+                </Node>
+                <Node name="TileSetTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
